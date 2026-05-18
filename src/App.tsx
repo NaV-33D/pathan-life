@@ -71,3 +71,5 @@ export default function App() {
     </div>
   );
 }
+
+// npx plugins add vercel/vercel-plugin
